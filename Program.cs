@@ -10,7 +10,7 @@ namespace DevOps
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome Home");
+            Console.WriteLine("Welcome Home")
 
         }
     }
